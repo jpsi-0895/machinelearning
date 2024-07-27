@@ -106,3 +106,5 @@ Supervised learning is a type of machine learning algorithms where we used label
         6. Seasonal Decomposition of Time Series by Loess (STL)
         7. Seasonal Autoregressive Integrated Moving Average (SARIMA) Models
         8. ARIMAX and SARIMAX Models
+9. Supervised Dimensionality Reduction Technique:
+    - Linear Discriminant Analysis (LDA)
