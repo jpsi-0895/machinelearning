@@ -87,3 +87,22 @@ Supervised learning is a type of machine learning algorithms where we used label
         2. Quadratic Discriminant Analysis (QDA)
     - Bayesian Belief Networks
     - Hidden Markov Models (HMMs)
+8. Time Series Forecasting:
+    - Time Series Visualization and Analysis:
+        1. Time Series Components: Trend, Seasonality, and Noise
+        2. Time Series Decomposition Techniques
+        3. Seasonal Adjustment and Differencing
+        4. Autocorrelation and Partial Autocorrelation Functions
+        5. Stationarity
+        6. Augmented Dickey-Fuller Test
+        7.  Seasonal Decomposition of Time Series (STL Decomposition)
+        8. Box-Jenkins Methodology for ARIMA Models
+    - Time Series Forecasting Algorithms:
+        1. Moving Average (MA) and Weighted Moving Average
+        2. Exponential Smoothing Methods (Simple, Double, and Triple)
+        3. Autoregressive (AR) Models
+        4. Moving Average (MA) Models
+        5. Autoregressive Integrated Moving Average (ARIMA) Models
+        6. Seasonal Decomposition of Time Series by Loess (STL)
+        7. Seasonal Autoregressive Integrated Moving Average (SARIMA) Models
+        8. ARIMAX and SARIMAX Models
