@@ -108,3 +108,23 @@ Supervised learning is a type of machine learning algorithms where we used label
         8. ARIMAX and SARIMAX Models
 9. Supervised Dimensionality Reduction Technique:
     - Linear Discriminant Analysis (LDA)
+
+### Metrics for Classification & Regression Algorithms:
+
+- Regression Metrics:
+    1. Mean squared error (MSE)
+    2. Root mean squared error (RMSE)
+    3. Mean absolute error (MAE)
+    4. R-squared
+    5. Adjusted R-squared
+- Classification Metrics:
+    1. Confusion matrix
+    2. Accuracy
+    3. Precision
+    4. Recall
+    5. Specificity
+    6. F1 score
+    7. Area under the ROC curve (AUC-ROC)
+- Probability calibration
+    1. Calibration curves
+    2. Calibrating a classifier
