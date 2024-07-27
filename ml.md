@@ -128,3 +128,10 @@ Supervised learning is a type of machine learning algorithms where we used label
 - Probability calibration
     1. Calibration curves
     2. Calibrating a classifier
+
+### Cross Validation Technique:
+- K-fold cross-validation
+- Stratified k-Fold Cross-Validation
+- Leave-one-out cross-validation
+- Shuffle Split Cross-Validation
+- Time Series Cross-Validation
