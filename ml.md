@@ -43,3 +43,47 @@ Supervised learning is a type of machine learning algorithms where we used label
         4. Ridge Classifier
         5. Elastic Net
         6. LARS Lasso
+2. K-Nearest Neighbors (KNN):
+    1. Brute Force Algorithms
+    2. Ball Tree and KD Tree Algorithms
+    3. K-Nearest Neighbors (KNN) Classifier
+    4. K-Nearest Neighbors (KNN) Regressor
+3. Support Vector Machines:
+    1. Support Vector Machines Classifier
+    1. Support Vector Machines Regressor
+    1. Different Kernel functions in SVM
+4. Stochastic Gradient Descent
+    1. Stochastic Gradient Descent Classifier
+    2. Stochastic Gradient Descent Regressor 
+    3. Different Loss functions in SGD
+5. Decision Tree:
+    - Decision Tree Algorithms
+        1. Iterative Dichotomiser 3 (ID3) Algorithms
+        2. C5. Algorithms
+        3. Classification and Regression Trees Algorithms
+    - Decision Tree Classifier
+    - Decision Tree Regressor
+6. Ensemble Learning:
+    - Bagging (Bootstrap Aggregating)
+        1. Random Forest
+        2. Extra Trees
+    - Boosting
+        1. AdaBoost
+        2. XGBoost
+        3. CatBoost
+        4. Gradient Boosting Machines (GBM)
+        5. LightGBM
+    - Stacking
+7. Generative Model
+    - Naive Bayes
+        1. Gaussian Naive Bayes
+        2. Multinomial Naive Bayes
+        3. Bernoulli Naive Bayes
+    - Gaussian Processes
+        1. Gaussian Process Regression (GPR)
+        2. Gaussian Process Classification (GPC)
+    - Gaussian Discriminant Analysis
+        1. Linear Discriminant Analysis (LDA)
+        2. Quadratic Discriminant Analysis (QDA)
+    - Bayesian Belief Networks
+    - Hidden Markov Models (HMMs)
