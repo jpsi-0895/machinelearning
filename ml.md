@@ -135,3 +135,17 @@ Supervised learning is a type of machine learning algorithms where we used label
 - Leave-one-out cross-validation
 - Shuffle Split Cross-Validation
 - Time Series Cross-Validation
+
+### Optimization Technique:
+
+- Gradient Descent
+    1. Stochastic Gradient Descent
+    2. Mini-batch Gradient Descent
+    3. Momentum-based Gradient Descent
+- Newton-Based Optimization Techniques
+    1. Newton’s algorithm
+    2. Quasi-Newton Methods (BFGS, L-BFGS)
+    3. Conjugate Gradient
+- Local Search Optimization Techniques
+    1. Hill Climbing
+    2. Tabu Search
